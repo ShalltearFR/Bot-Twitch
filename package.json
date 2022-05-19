@@ -1,0 +1,25 @@
+{
+  "name": "bot",
+  "version": "2.0.0",
+  "description": "bot twitch",
+  "main": "startServer.js",
+  "scripts": {
+    "test": "startServer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShalltearFR/Bot-Twitch.git"
+  },
+  "author": "ShalltearFR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShalltearFR/Bot-Twitch/issues"
+  },
+  "homepage": "https://github.com/ShalltearFR/Bot-Twitch#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mplayer": "^2.1.0",
+    "obs-websocket-js": "^4.0.3",
+    "tmi.js": "^1.8.5"
+  }
+}

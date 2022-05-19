@@ -1,0 +1,13 @@
+{
+    "twitch" :
+    {
+        "username": "",
+        "oauth": "oauth:",
+        "channel": "ShalltearFR"
+    },
+    "obs" :
+    {
+        "ip": "localhost:4242",
+        "password": "hJnBwhP56LmnKwkai9MwkHjN"
+    }
+}

@@ -1,0 +1,191 @@
+[
+  {
+    "CommandName": "amour",
+    "File": "sons/commandes/amour.mp3",
+    "Volume": "100",
+    "Cooldown": "10",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  },
+  {
+    "CommandName": "bonjour",
+    "File": "sons/commandes/bonjour.wav",
+    "Volume": "100",
+    "Cooldown": "10",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  },
+  {
+    "CommandName": "bonnenuit",
+    "File": "sons/commandes/bonnenuit.wav",
+    "Volume": "100",
+    "Cooldown": "10",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  },
+  {
+    "CommandName": "explosion",
+    "File": "sons/commandes/explosion.wav",
+    "Volume": "100",
+    "Cooldown": "10",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  },
+  {
+    "CommandName": "feu",
+    "File": "sons/commandes/feu.wav",
+    "Volume": "100",
+    "Cooldown": "10",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  },
+  {
+    "CommandName": "frieza",
+    "File": "sons/commandes/frieza.wav",
+    "Volume": "100",
+    "Cooldown": "10",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  },
+  {
+    "CommandName": "fuck",
+    "File": "sons/commandes/fuck.wav",
+    "Volume": "100",
+    "Cooldown": "10",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  },
+  {
+    "CommandName": "gg",
+    "File": "sons/commandes/gg.wav",
+    "Volume": "100",
+    "Cooldown": "10",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  },
+  {
+    "CommandName": "ha",
+    "File": "sons/commandes/ha.wav",
+    "Volume": "100",
+    "Cooldown": "10",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  },
+  {
+    "CommandName": "hoya",
+    "File": "sons/commandes/hoya.wav",
+    "Volume": "100",
+    "Cooldown": "10",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  },
+  {
+    "CommandName": "muda",
+    "File": "sons/commandes/muda.wav",
+    "Volume": "100",
+    "Cooldown": "10",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  },
+  {
+    "CommandName": "nani",
+    "File": "sons/commandes/nani.wav",
+    "Volume": "100",
+    "Cooldown": "10",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  },
+  {
+    "CommandName": "niconi",
+    "File": "sons/commandes/niconi.wav",
+    "Volume": "100",
+    "Cooldown": "10",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  },
+  {
+    "CommandName": "nippa",
+    "File": "sons/commandes/nippa.wav",
+    "Volume": "100",
+    "Cooldown": "10",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  },
+  {
+    "CommandName": "nyaa",
+    "File": "sons/commandes/nyaa.wav",
+    "Volume": "100",
+    "Cooldown": "10",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  },
+  {
+    "CommandName": "pika",
+    "File": "sons/commandes/pika.wav",
+    "Volume": "100",
+    "Cooldown": "10",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  },
+  {
+    "CommandName": "regle95",
+    "File": "sons/commandes/regle95.wav",
+    "Volume": "100",
+    "Cooldown": "10",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  },
+  {
+    "CommandName": "regle96",
+    "File": "sons/commandes/regle96.wav",
+    "Volume": "100",
+    "Cooldown": "10",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  },
+  {
+    "CommandName": "tuturu",
+    "File": "sons/commandes/tuturu.wav",
+    "Volume": "100",
+    "Cooldown": "10",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  },
+  {
+    "CommandName": "hfhfhfh",
+    "File": "D:/Documents/Desktop/bot 2.0/www/sons/commandes/feu.wav",
+    "Volume": "100",
+    "Cooldown": "10",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  },
+  {
+    "CommandName": "gfggggggggg",
+    "File": "D:/Documents/Desktop/bot 2.0/www/sons/commandes/ha.wav",
+    "Volume": "50",
+    "Cooldown": "4",
+    "Mod": "false",
+    "Vip": "false",
+    "ViewersFilter": ""
+  }
+]
